@@ -1,6 +1,6 @@
 {
-    "name": "modernphp/scanner",
-    "description": "Scan an array of URLs and report inaccessible URLs",
+    "name": "woofmang/scanner",
+    "description": "Scan an array of URLs and report inaccessible URLs (from Josh Lockhart's Modern PHP)",
     "keywords": ["url", "scanner", "csv"],
     "homepage": "http://shop.oreilly.com/product/0636920033868.do",
     "license": "MIT",
